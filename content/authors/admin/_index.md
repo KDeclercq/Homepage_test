@@ -3,28 +3,23 @@ education:
   courses:
   - course: PhD in Economics
     institution: KU Leuven
-    year: 2008
+    year: 2016
   - course: MSc in Economics
     institution: KU Leuven
-    year: 2003
-  - course: Master in Economics (licentiaat)
+    year: 2011
+  - course: Master in Economics
     institution: KU Leuven
-    year: 2002
-  - course: Master in History (licentiaat)
-    institution: KU Leuven
-    year: 1999
-email: tom.truyts@usaintlouis.be
+    year: 2010
+email: koen.declercq@usaintlouis.be
 highlight_name: true
 interests:
-- Public finance
-- Microsimulation modelling
-- Data science
-- Transport, environment, social inequality, fiscal federalism
-- I used to work on game theory, auction theory, economic history
+- Labor economics
+- Eduation Economics
+- Structural economic modelling
 organizations:
 - name: Université Saint-Louis - Bruxelles
   url: http://www.usaintlouis.be/
-role: Professor of Public Economics
+role: Assistant Professor of Economics
 social:
 - icon: envelope
   icon_pack: fas
@@ -41,11 +36,10 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/tom-truyts-5b5597137
 superuser: true
-title: Tom Truyts
+title: Koen Declercq
 ---
 
-Tom Truyts is a professor of public economics at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>.  His research interests include public finance, microsimulation modelling, transport and environmental economics, fiscal federalism and data science. His former research was focussing on game theory, auction theory and economic history. 
-Tom Truyts coordinates the Beamm project, an effort to build an online open-acces comprehensive tax-benefit microsimulation model for Belgium. 
+Koen Declercq is a professor of economics at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>.  His research interests include labor economics and education economics.
 
-Tom Truyts is the director (together with Gilles Grandjean) of the Center for Applied Public Economics (<a href="https://capeusaintlouis.com">CAPE</a>), co-director of the Institut de Recherches interdisciplinaires sur Bruxelles (<a href="https://irib.be">IRIB</a>) and a member of the Center for Research in Economics (<a href="https://cerec.be">CEREC</a>), all at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>.
+Koen Declercq is a member of the Center for Applied Public Economics (<a href="https://capeusaintlouis.com">CAPE</a>) and the Center for Research in Economics (<a href="https://cerec.be">CEREC</a>), all at the <a href="https://www.usaintlouis.be">Université Saint-Louis - Bruxelles</a>.
 
